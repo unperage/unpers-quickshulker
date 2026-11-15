@@ -39,7 +39,9 @@ Each one can be switched off individually
 
 - **Nested containers** — containers outside the inventory can be opened
 - **Container memory** — remembers the layers of nested containers you opened
-- **Static pointer** — puts the cursor back where it was
+- **Static cursor** — puts the cursor back where it was
+
+ps: Static cursor can't be enabled in mobile launcher, because its cursor is drawn. 
 
 ### Server control
 
